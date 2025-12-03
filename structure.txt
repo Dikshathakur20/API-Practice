@@ -1,0 +1,20 @@
+api-Node/
+│
+├── server.js
+├── package.json
+├── .env
+├── README.md
+│
+├── /config
+│   └── db.js
+│
+├── /middleware
+│   └── verifyAdmin.js
+│
+├── /routes
+│   ├── adminRoutes.js
+│   └── employeeRoutes.js
+│
+└── /controllers
+    ├── adminController.js
+    └── employeeController.js
